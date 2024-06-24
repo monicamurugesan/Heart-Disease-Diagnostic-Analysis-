@@ -34,6 +34,7 @@ oldpeak - ST depression induced by exercise relative to rest
 
 slp - the slope of the peak exercise ST segment (0 = downsloping; 1 = flat; 2 = upsloping)
 
+To view dashboard link:https://public.tableau.com/app/profile/monica.murugesan/viz/HeartDisease_17174950993330/Dashboard1?publish=yes
 caa - number of major vessels (0-4) colored by flourosopy
 
 thall - thallium stress test (1 = fixed defect; 2 = reversable defect; 3 = normal)
